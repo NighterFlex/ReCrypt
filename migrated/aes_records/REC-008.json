@@ -1,0 +1,7 @@
+{
+    "id": "REC-008",
+    "nonce": "3da7a234ec4c0d8d74326724",
+    "ciphertext": "4cda07f3d36bf7814ac7e8333c574bcfe03e014ac0c1a6bc07c75b44f721cc83e160f1cda9e1afcbb473febfcafcd466a7b72f1516eb5a284f2d4171023ffbf79a48faa61f5ddb3e0323c501ef41efa73d31fb6852",
+    "tag": "4ea5120d70e4d81de1beecfc6b8b3686",
+    "sha256": "16221ffb87c5599c3b3ea89e6ffa0be3d39c97463a4357daac201cccfc42727f"
+}

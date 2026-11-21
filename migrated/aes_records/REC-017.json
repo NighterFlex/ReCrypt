@@ -1,0 +1,7 @@
+{
+    "id": "REC-017",
+    "nonce": "156fa7c306f24152e300a13f",
+    "ciphertext": "ce8deb0a47482d3954c3a97245c83f8e1aef2ba3d3ae8f95636f185f5fd5e5ffa78cd418c2ed158be0ea4a6c31420ebf9bc576567709d75b272d47ebe08936af82e8fd1176e5dac2c1e8972a3c77ec8b95def98f14262e",
+    "tag": "ec7e1f95b72519c8215e5154b8bc5cfd",
+    "sha256": "d746765286e16b8899d38de043f10c32f0cefbfe83d0f933be09cdc03e1d8bf0"
+}
